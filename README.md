@@ -5,3 +5,14 @@ In this Project, We will detect the gender and age of a person through picture o
 # Python Libraries Used:
 1. pip install opencv-python
 2. pip install argparse
+
+# Working:
+1. Download my Repository
+2. Open your Command Prompt or Terminal and change directory to the folder where all the files are present.
+3. Detecting Gender and Age of face in Image Use Command :
+  # python detect.py --image <image_name>
+Note: The Image should be present in same folder where all the files are present
+
+4. Detecting Gender and Age of face through webcam Use Command :
+  # python detect.py
+5. Press Ctrl + C to stop the program execution.
